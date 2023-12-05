@@ -3,5 +3,5 @@ def sum(a,b,cc):
     return a + b + cc
 
 
-def sq(a,b):
-    return (a + b)**2 
+def sq(a,b, vv):
+    return (a + b, vv)**2 
